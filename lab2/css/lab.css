@@ -11,10 +11,10 @@ p {
 
 #content {
   background-color: #cccccc;
-  width: 100px;
-  min-height: 100px;
-  padding: 10px;
-  margin: 10px;
+  width: 750px;
+  min-height: 450px;
+  padding: 20px;
+  margin: 20px;
   border: solid 1px #444444;
   font-size: 20px;
 }
