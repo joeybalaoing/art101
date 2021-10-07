@@ -15,6 +15,6 @@ p {
   min-height: 450px;
   padding: 20px;
   margin: 20px;
-  border: dashed 1px #444444;
+  border: dashed 10px #444444;
   font-size: 20px;
 }
