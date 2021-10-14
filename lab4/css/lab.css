@@ -10,12 +10,12 @@ p {
 }
 
 #content {
-  background-color: #cccccc;
+  background-color: gray;
   width: 1000px;
   min-height: 1000px;
   padding: 20px;
   margin: 20px;
-  border: dashed 10px #444444;
+  border: dotted 20px white;
   font-size: 20px;
 }
 
