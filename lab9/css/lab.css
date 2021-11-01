@@ -1,0 +1,27 @@
+h1 {
+  color: black;
+  font-size: 200%;
+}
+
+p {
+    font-family: "Georgia";
+    text-indent: 20px;
+    margin-left: 10px;
+}
+
+#content {
+  background-color: gray;
+  color: white;
+  width: 1000px;
+  min-height: 1000px;
+  padding: 20px;
+  margin: 20px;
+  border: double 15px white;
+  font-size: 20px;
+}
+
+#output {
+  min-height 40px;
+  border: solid 1px black;
+  padding 10 px;
+}
