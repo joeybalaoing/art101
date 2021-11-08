@@ -1,0 +1,21 @@
+.sectionbox {
+  border: dashed 1px white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.special {
+  background-color: gold;
+  border: single 10px black;
+}
+
+#content {
+  background-color: gray;
+  color: black;
+  min-height: 80vh;
+  padding: 50px;
+  margin: 20px;
+  border: double 15px white;
+  font-size: 20px;
+}
