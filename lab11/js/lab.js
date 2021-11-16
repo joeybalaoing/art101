@@ -21,7 +21,6 @@ $("#results").append("<button id='three'>button</button>");
 $("#one").click(function(){
   // find the section, toggle a class
   // $("#challenge").toggleClass("special");
-
   $(this).parent().toggleClass("special");
 })
 
